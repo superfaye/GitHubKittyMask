@@ -15,3 +15,5 @@ Before running the script, make sure github SSH key has been set correctly. So y
 The kitty will disappear after removing the repository.
 
 Just for fun!
+
+123
